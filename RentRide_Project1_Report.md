@@ -11,9 +11,9 @@
         BACHELOR OF TECHNOLOGY in COMPUTER SCIENCE & ENGINEERING
 
                                      BY
-                              VASUNDHARA SHUKLA
-                        [Enrollment No: EN21CS301XXX]
-                          [Roll No: 0827CS211XXX]
+                 VANSH JOSHI         [Enrollment No: EN23CS3011109]
+                 VASUNDHARA SHUKLA   [Enrollment No: EN23CS3011115]
+                 VEDIKA GEETE        [Enrollment No: EN23CS3011124]
 
                             Under the Guidance of 
                              [Name of the Guide]
@@ -45,9 +45,9 @@
         BACHELOR OF TECHNOLOGY in COMPUTER SCIENCE & ENGINEERING
 
                                      BY
-                              VASUNDHARA SHUKLA
-                        [Enrollment No: EN21CS301XXX]
-                          [Roll No: 0827CS211XXX]
+                 VANSH JOSHI         [Enrollment No: EN23CS3011109]
+                 VASUNDHARA SHUKLA   [Enrollment No: EN23CS3011115]
+                 VEDIKA GEETE        [Enrollment No: EN23CS3011124]
 
                             Under the Guidance of 
                              [Name of the Guide]
@@ -91,18 +91,19 @@ Place: Indore
 
 ## Declaration
 
-I hereby declare that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering**, completed under the supervision of **[Name of Guide]**, Assistant Professor, Department of Computer Science & Engineering, Faculty of Engineering, Medi-Caps University, Indore is an authentic work.
+We hereby declare that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering**, completed under the supervision of **[Name of Guide]**, Assistant Professor, Department of Computer Science & Engineering, Faculty of Engineering, Medi-Caps University, Indore is an authentic work.
 
-Further, I declare that the content of this project work, in full or in parts, has neither been taken from any other source nor has been submitted to any other Institute or University for the award of any degree or diploma.
+Further, we declare that the content of this project work, in full or in parts, has neither been taken from any other source nor has been submitted to any other Institute or University for the award of any degree or diploma.
 
-<br><br><br>
+<br><br>
 
-_______________________________________  
-**Vasundhara Shukla**  
-Enrollment No: [EN21CS301XXX]  
-University Roll No: [0827CS211XXX]  
-Department of Computer Science & Engineering  
-Faculty of Engineering, Medi-Caps University, Indore  
+___________________________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ___________________________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ___________________________  
+**Vansh Joshi** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vasundhara Shukla** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vedika Geete**  
+Enrollment No: EN23CS3011109 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrollment No: EN23CS3011115 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrollment No: EN23CS3011124  
+Department of CSE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of CSE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of CSE  
+Faculty of Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty of Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty of Engineering  
+Medi-Caps University, Indore &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medi-Caps University, Indore &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medi-Caps University, Indore  
+
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 \newpage
@@ -111,7 +112,7 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Certificate
 
-I, **[Name of the Guide]**, certify that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering** by **Vasundhara Shukla** (Enrollment No: [EN21CS301XXX], Roll No: [0827CS211XXX]) is the record of authentic work carried out by her under my guidance and that the work has not formed the basis of the award of any other degree elsewhere.
+I, **[Name of the Guide]**, certify that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering** by **Vansh Joshi** (Enrollment No: EN23CS3011109), **Vasundhara Shukla** (Enrollment No: EN23CS3011115), and **Vedika Geete** (Enrollment No: EN23CS3011124) is the record of authentic work carried out by them under my guidance and that the work has not formed the basis of the award of any other degree elsewhere.
 
 <br><br>
 
@@ -137,19 +138,21 @@ Medi-Caps University, Indore
 
 ## Acknowledgements
 
-I would like to express my deepest gratitude to the Honorable Chancellor, **Shri R. C. Mittal**, who has provided me with every facility to successfully carry out this project, and my profound indebtedness to **Prof. (Dr.) D. K. Patnaik**, Vice Chancellor, Medi-Caps University, whose unfailing support and enthusiasm has always boosted my morale.
+We would like to express our deepest gratitude to the Honorable Chancellor, **Shri R. C. Mittal**, who has provided me with every facility to successfully carry out this project, and our profound indebtedness to **Prof. (Dr.) D. K. Patnaik**, Vice Chancellor, Medi-Caps University, whose unfailing support and enthusiasm has always boosted our morale.
 
-I also extend my sincere thanks to **Prof. (Dr.) Ratnesh Litoriya**, Associate Dean Computing & Allied Branches, Medi-Caps University, for providing an academically stimulating environment and the opportunity to undertake this project work. 
+We also extend our sincere thanks to **Prof. (Dr.) Ratnesh Litoriya**, Associate Dean Computing & Allied Branches, Medi-Caps University, for providing an academically stimulating environment and the opportunity to undertake this project work. 
 
-I express my sincere indebtedness to my Head of the Department, **Prof. (Dr.) Kailash Chandra Bandhu**, for his constant encouragement, constructive guidance, and visionary leadership in the betterment of engineering curricula and research facilities.
+We express our sincere indebtedness to our Head of the Department, **Prof. (Dr.) Kailash Chandra Bandhu**, for his constant encouragement, constructive guidance, and visionary leadership in the betterment of engineering curricula and research facilities.
 
-I would like to record my profound gratitude and indebtedness to my project supervisor, **[Name & Designation of Guide]**, Assistant Professor, Department of Computer Science & Engineering. It is their insightful critiques, technical guidance, and consistent encouragement that enabled the systematic formulation, architectural implementation, and completion of this project report. Without their guidance and unwavering support, this work would not have achieved completion.
+We would like to record our profound gratitude and indebtedness to our project supervisor, **[Name & Designation of Guide]**, Assistant Professor, Department of Computer Science & Engineering. It is their insightful critiques, technical guidance, and consistent encouragement that enabled the systematic formulation, architectural implementation, and completion of this project report. Without their guidance and unwavering support, this work would not have achieved completion.
 
-Finally, I express my heartfelt appreciation to the faculty members, laboratory technical staff, family, and peers whose encouragement served as an enduring pillar of support throughout the development of this project.
+Finally, we express our heartfelt appreciation to the faculty members, laboratory technical staff, family, and peers whose encouragement served as an enduring pillar of support throughout the development of this project.
 
 <br><br>
 
-**Vasundhara Shukla**  
+**Vansh Joshi** (Enrollment No: EN23CS3011109)  
+**Vasundhara Shukla** (Enrollment No: EN23CS3011115)  
+**Vedika Geete** (Enrollment No: EN23CS3011124)  
 B.Tech. IV Year  
 Department of Computer Science & Engineering  
 Faculty of Engineering  
