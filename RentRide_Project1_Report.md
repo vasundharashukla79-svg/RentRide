@@ -16,8 +16,8 @@
                  VEDIKA GEETE        [Enrollment No: EN23CS3011124]
 
                             Under the Guidance of 
-                             [Name of the Guide]
-                     Assistant Professor / Associate Professor
+                             Prof. Sachin Solanki
+                     Assistant Professor
                    Department of Computer Science & Engineering
 
                                 [INSTITUTE LOGO]
@@ -50,8 +50,8 @@
                  VEDIKA GEETE        [Enrollment No: EN23CS3011124]
 
                             Under the Guidance of 
-                             [Name of the Guide]
-                     Assistant Professor / Associate Professor
+                             Prof. Sachin Solanki
+                     Assistant Professor
                    Department of Computer Science & Engineering
 
                                 [INSTITUTE LOGO]
@@ -91,7 +91,7 @@ Place: Indore
 
 ## Declaration
 
-We hereby declare that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering**, completed under the supervision of **[Name of Guide]**, Assistant Professor, Department of Computer Science & Engineering, Faculty of Engineering, Medi-Caps University, Indore is an authentic work.
+We hereby declare that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering**, completed under the supervision of **Prof. Sachin Solanki**, Assistant Professor, Department of Computer Science & Engineering, Faculty of Engineering, Medi-Caps University, Indore is an authentic work.
 
 Further, we declare that the content of this project work, in full or in parts, has neither been taken from any other source nor has been submitted to any other Institute or University for the award of any degree or diploma.
 
@@ -112,12 +112,12 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Certificate
 
-I, **[Name of the Guide]**, certify that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering** by **Vansh Joshi** (Enrollment No: EN23CS3011109), **Vasundhara Shukla** (Enrollment No: EN23CS3011115), and **Vedika Geete** (Enrollment No: EN23CS3011124) is the record of authentic work carried out by them under my guidance and that the work has not formed the basis of the award of any other degree elsewhere.
+I, **Prof. Sachin Solanki**, certify that the project entitled **“RentRide — Multi-Vendor Vehicle Rental Marketplace”** submitted in partial fulfillment for the award of the degree of **Bachelor of Technology in Computer Science & Engineering** by **Vansh Joshi** (Enrollment No: EN23CS3011109), **Vasundhara Shukla** (Enrollment No: EN23CS3011115), and **Vedika Geete** (Enrollment No: EN23CS3011124) is the record of authentic work carried out by them under my guidance and that the work has not formed the basis of the award of any other degree elsewhere.
 
 <br><br>
 
 _______________________________________  
-**[Name of Internal Guide]**  
+**Prof. Sachin Solanki**  
 Guide & Assistant Professor  
 Department of Computer Science & Engineering  
 Faculty of Engineering  
@@ -144,7 +144,7 @@ We also extend our sincere thanks to **Prof. (Dr.) Ratnesh Litoriya**, Associate
 
 We express our sincere indebtedness to our Head of the Department, **Prof. (Dr.) Kailash Chandra Bandhu**, for his constant encouragement, constructive guidance, and visionary leadership in the betterment of engineering curricula and research facilities.
 
-We would like to record our profound gratitude and indebtedness to our project supervisor, **[Name & Designation of Guide]**, Assistant Professor, Department of Computer Science & Engineering. It is their insightful critiques, technical guidance, and consistent encouragement that enabled the systematic formulation, architectural implementation, and completion of this project report. Without their guidance and unwavering support, this work would not have achieved completion.
+We would like to record our profound gratitude and indebtedness to our project supervisor, **Prof. Sachin Solanki**, Assistant Professor, Department of Computer Science & Engineering. It is their insightful critiques, technical guidance, and consistent encouragement that enabled the systematic formulation, architectural implementation, and completion of this project report. Without their guidance and unwavering support, this work would not have achieved completion.
 
 Finally, we express our heartfelt appreciation to the faculty members, laboratory technical staff, family, and peers whose encouragement served as an enduring pillar of support throughout the development of this project.
 
